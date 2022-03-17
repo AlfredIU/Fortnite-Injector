@@ -1,0 +1,9 @@
+﻿  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Administrateur\Desktop\MOULA VIE V2\fortnite-pasted-injector-main\wasd\main.cpp(24,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Administrateur\Desktop\MOULA VIE V2\fortnite-pasted-injector-main\wasd\main.cpp(91,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 441 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  wasd.vcxproj -> C:\Users\Administrateur\Desktop\MOULA VIE V2\fortnite-pasted-injector-main\x64\Release\wasd.exe
